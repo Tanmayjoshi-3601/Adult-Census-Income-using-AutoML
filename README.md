@@ -1,4 +1,3 @@
-Abstract
 The goal of this project is to predict the adult census income of the people around the world. We use the AutoML library by H2O.AI for the same. We analyze different models to analyze the best fit for the data. Various metrics were evaluated to determine the best model. We also infer the best hyperparamters for the model. Only applying AutoML it was found that the Stacked Ensemble approach gave the best results outperforming the naive Machine Learning models.
 
 
